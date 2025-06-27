@@ -11,5 +11,3 @@ public class Begin {
         System.out.println(num-48);
     }
 }
-
-//  랜덤으로 훌수 짝수 게임 만들기
